@@ -8,6 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface BNRHypnosisViewController : NSObject
+@interface BNRHypnosisViewController : UIViewController
 
 @end

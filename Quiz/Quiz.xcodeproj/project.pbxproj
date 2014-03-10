@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E28AC83818CAE25000E3DCBF /* BNRQuizViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E28AC83618CAE25000E3DCBF /* BNRQuizViewController.m */; };
+		E28AC83918CAE25000E3DCBF /* BNRQuizViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E28AC83718CAE25000E3DCBF /* BNRQuizViewController.xib */; };
 		E2CBBE7F18C8D1CC00A6F11E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CBBE7E18C8D1CC00A6F11E /* Foundation.framework */; };
 		E2CBBE8118C8D1CC00A6F11E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CBBE8018C8D1CC00A6F11E /* CoreGraphics.framework */; };
 		E2CBBE8318C8D1CC00A6F11E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CBBE8218C8D1CC00A6F11E /* UIKit.framework */; };
@@ -32,6 +34,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E28AC83518CAE25000E3DCBF /* BNRQuizViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BNRQuizViewController.h; sourceTree = "<group>"; };
+		E28AC83618CAE25000E3DCBF /* BNRQuizViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BNRQuizViewController.m; sourceTree = "<group>"; };
+		E28AC83718CAE25000E3DCBF /* BNRQuizViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BNRQuizViewController.xib; sourceTree = "<group>"; };
 		E2CBBE7B18C8D1CC00A6F11E /* Quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2CBBE7E18C8D1CC00A6F11E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E2CBBE8018C8D1CC00A6F11E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -111,6 +116,9 @@
 				E2CBBE8E18C8D1CC00A6F11E /* BNRAppDelegate.m */,
 				E2CBBE9018C8D1CC00A6F11E /* Images.xcassets */,
 				E2CBBE8518C8D1CC00A6F11E /* Supporting Files */,
+				E28AC83518CAE25000E3DCBF /* BNRQuizViewController.h */,
+				E28AC83618CAE25000E3DCBF /* BNRQuizViewController.m */,
+				E28AC83718CAE25000E3DCBF /* BNRQuizViewController.xib */,
 			);
 			path = Quiz;
 			sourceTree = "<group>";
@@ -221,6 +229,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E2CBBE8918C8D1CC00A6F11E /* InfoPlist.strings in Resources */,
+				E28AC83918CAE25000E3DCBF /* BNRQuizViewController.xib in Resources */,
 				E2CBBE9118C8D1CC00A6F11E /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -242,6 +251,7 @@
 			files = (
 				E2CBBE8B18C8D1CC00A6F11E /* main.m in Sources */,
 				E2CBBE8F18C8D1CC00A6F11E /* BNRAppDelegate.m in Sources */,
+				E28AC83818CAE25000E3DCBF /* BNRQuizViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,6 +452,7 @@
 				E2CBBEA918C8D1CC00A6F11E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E2CBBEAA18C8D1CC00A6F11E /* Build configuration list for PBXNativeTarget "QuizTests" */ = {
 			isa = XCConfigurationList;
@@ -450,6 +461,7 @@
 				E2CBBEAC18C8D1CC00A6F11E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
