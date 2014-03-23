@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DAB0AAF6-5BC4-4325-A67B-9B93E8976246</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ReminderApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F736D438-5D5B-47AB-B154-8F73634F27E8</key>
+		<string>https://github.com/pitsanu/lab_iosprogramming</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ReminderApp/ReminderApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F736D438-5D5B-47AB-B154-8F73634F27E8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pitsanu/lab_iosprogramming</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F736D438-5D5B-47AB-B154-8F73634F27E8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F736D438-5D5B-47AB-B154-8F73634F27E8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lab_iosprogramming</string>
+		</dict>
+	</array>
+</dict>
+</plist>
